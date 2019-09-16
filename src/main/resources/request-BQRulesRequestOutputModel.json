@@ -1,0 +1,16 @@
+{
+  "rulesInstanceRecord" : {
+    "customerCaseDecisionCriterionAnalysis" : {
+      "customerCaseDecisionCriterionHistory" : "customerCaseDecisionCriterionHistory",
+      "customerCaseDecisionCriterionAnalysis" : "customerCaseDecisionCriterionAnalysis"
+    },
+    "customerCaseDecisionCriterion" : {
+      "customerCaseDecisionCriterionRules" : "customerCaseDecisionCriterionRules",
+      "customerCaseDecisionCriterionDefinition" : "customerCaseDecisionCriterionDefinition"
+    }
+  },
+  "rulesRequestRecordReference" : "RRRR704039",
+  "rulesRequestActionTaskReference" : "RRATR733801",
+  "rulesRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

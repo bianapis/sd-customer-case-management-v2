@@ -1,0 +1,15 @@
+{
+  "customerCaseManagementPlanInstanceReference" : "CCMPIR721946",
+  "customerCaseManagementPlanCreateActionReference" : "CCMPCAR728853",
+  "customerCaseManagementPlanInstanceStatus" : "customerCaseManagementPlanInstanceStatus",
+  "customerCaseManagementPlanInstanceRecord" : {
+    "customerCaseResourcePlan" : "customerCaseResourcePlan",
+    "customerCaseServiceSchedule" : "customerCaseServiceSchedule",
+    "customerCaseTrainingPlan" : "customerCaseTrainingPlan",
+    "customerCaseServiceOperatingConfiguration" : "customerCaseServiceOperatingConfiguration",
+    "customerCasePoliciesAndGuidelines" : "customerCasePoliciesAndGuidelines",
+    "customerCaseManagementPlanPeriod" : "customerCaseManagementPlanPeriod",
+    "customerCaseServicePerformanceGoals" : "customerCaseServicePerformanceGoals"
+  },
+  "customerCaseManagementPlanCreateActionRecord" : {}
+}

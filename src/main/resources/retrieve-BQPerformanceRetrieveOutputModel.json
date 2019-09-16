@@ -1,0 +1,27 @@
+{
+  "performanceRetrieveActionTaskReference" : "CCMPRATR765799",
+  "performanceInstanceReport" : {
+    "performanceInstanceReport" : {},
+    "performanceInstanceReportRecord" : {},
+    "performanceInstanceReportParameters" : "performanceInstanceReportParameters",
+    "performanceInstanceReportType" : "performanceInstanceReportType"
+  },
+  "performanceInstanceRecord" : {
+    "customerCaseResourceUtilization" : "customerCaseResourceUtilization",
+    "customerCaseResolutionServiceStatistics" : {
+      "customerCaseServiceStatisticType" : "customerCaseServiceStatisticType",
+      "customerCaseServiceStatisticInterpretation" : "customerCaseServiceStatisticInterpretation",
+      "customerCaseServiceStatisticValue" : "customerCaseServiceStatisticValue",
+      "customerCaseServiceStatisticRecommendation" : "customerCaseServiceStatisticRecommendation"
+    },
+    "customerCaseLoadingProjections" : "customerCaseLoadingProjections"
+  },
+  "performanceInstanceAnalysis" : {
+    "performanceInstanceAnalysisRecord" : {},
+    "performanceInstanceAnalysisParameters" : "performanceInstanceAnalysisParameters",
+    "performanceInstanceAnalysisReportType" : "performanceInstanceAnalysisReportType",
+    "performanceInstanceAnalysisReport" : {}
+  },
+  "performanceRetrieveActionResponse" : "performanceRetrieveActionResponse",
+  "performanceRetrieveActionTaskRecord" : {}
+}

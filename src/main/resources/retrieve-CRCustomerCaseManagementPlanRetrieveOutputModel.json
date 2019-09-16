@@ -1,0 +1,24 @@
+{
+  "customerCaseManagementPlanRetrieveActionResponse" : "customerCaseManagementPlanRetrieveActionResponse",
+  "customerCaseManagementPlanRetrieveActionTaskReference" : "CCMPRATR706874",
+  "customerCaseManagementPlanInstanceReportRecord" : {
+    "customerCaseManagementPlanInstanceReportType" : "customerCaseManagementPlanInstanceReportType",
+    "customerCaseManagementPlanInstanceReport" : {},
+    "customerCaseManagementPlanInstanceReportData" : "customerCaseManagementPlanInstanceReportData"
+  },
+  "customerCaseManagementPlanInstanceRecord" : {
+    "customerCaseResourcePlan" : "customerCaseResourcePlan",
+    "customerCaseServiceSchedule" : "customerCaseServiceSchedule",
+    "customerCaseTrainingPlan" : "customerCaseTrainingPlan",
+    "customerCaseServiceOperatingConfiguration" : "customerCaseServiceOperatingConfiguration",
+    "customerCasePoliciesAndGuidelines" : "customerCasePoliciesAndGuidelines",
+    "customerCaseManagementPlanPeriod" : "customerCaseManagementPlanPeriod",
+    "customerCaseServicePerformanceGoals" : "customerCaseServicePerformanceGoals"
+  },
+  "customerCaseManagementPlanInstanceAnalysis" : {
+    "customerCaseManagementPlanInstanceAnalysisReport" : {},
+    "customerCaseManagementPlanInstanceAnalysisReportType" : "customerCaseManagementPlanInstanceAnalysisReportType",
+    "customerCaseManagementPlanInstanceAnalysisData" : "customerCaseManagementPlanInstanceAnalysisData"
+  },
+  "customerCaseManagementPlanRetrieveActionTaskRecord" : {}
+}

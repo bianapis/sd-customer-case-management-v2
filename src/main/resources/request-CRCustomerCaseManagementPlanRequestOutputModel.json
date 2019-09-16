@@ -1,0 +1,15 @@
+{
+  "requestRecordReference" : "RRR781930",
+  "customerCaseManagementPlanRequestActionTaskRecord" : {},
+  "customerCaseManagementPlanInstanceRecord" : {
+    "customerCaseResourcePlan" : "customerCaseResourcePlan",
+    "customerCaseServiceSchedule" : "customerCaseServiceSchedule",
+    "customerCaseTrainingPlan" : "customerCaseTrainingPlan",
+    "customerCaseServiceOperatingConfiguration" : "customerCaseServiceOperatingConfiguration",
+    "customerCasePoliciesAndGuidelines" : "customerCasePoliciesAndGuidelines",
+    "customerCaseManagementPlanPeriod" : "customerCaseManagementPlanPeriod",
+    "customerCaseServicePerformanceGoals" : "customerCaseServicePerformanceGoals"
+  },
+  "customerCaseManagementPlanRequestActionTaskReference" : "CCMPRATR788519",
+  "requestResponseRecord" : {}
+}

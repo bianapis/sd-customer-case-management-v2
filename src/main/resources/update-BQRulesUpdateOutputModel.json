@@ -1,0 +1,15 @@
+{
+  "rulesInstanceRecord" : {
+    "customerCaseDecisionCriterionAnalysis" : {
+      "customerCaseDecisionCriterionHistory" : "customerCaseDecisionCriterionHistory",
+      "customerCaseDecisionCriterionAnalysis" : "customerCaseDecisionCriterionAnalysis"
+    },
+    "customerCaseDecisionCriterion" : {
+      "customerCaseDecisionCriterionRules" : "customerCaseDecisionCriterionRules",
+      "customerCaseDecisionCriterionDefinition" : "customerCaseDecisionCriterionDefinition"
+    }
+  },
+  "rulesUpdateActionTaskReference" : "RUATR724093",
+  "rulesUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {}
+}

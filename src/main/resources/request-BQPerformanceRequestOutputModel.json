@@ -1,0 +1,16 @@
+{
+  "performanceInstanceRecord" : {
+    "customerCaseResourceUtilization" : "customerCaseResourceUtilization",
+    "customerCaseResolutionServiceStatistics" : {
+      "customerCaseServiceStatisticType" : "customerCaseServiceStatisticType",
+      "customerCaseServiceStatisticInterpretation" : "customerCaseServiceStatisticInterpretation",
+      "customerCaseServiceStatisticValue" : "customerCaseServiceStatisticValue",
+      "customerCaseServiceStatisticRecommendation" : "customerCaseServiceStatisticRecommendation"
+    },
+    "customerCaseLoadingProjections" : "customerCaseLoadingProjections"
+  },
+  "performanceRequestActionTaskReference" : "CCMPRATR771489",
+  "performanceRequestActionTaskRecord" : {},
+  "performanceRequestRecordReference" : "PRRR770305",
+  "requestResponseRecord" : {}
+}

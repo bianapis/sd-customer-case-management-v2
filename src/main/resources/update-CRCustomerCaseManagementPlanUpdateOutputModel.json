@@ -1,0 +1,14 @@
+{
+  "customerCaseManagementPlanUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "customerCaseManagementPlanInstanceRecord" : {
+    "customerCaseResourcePlan" : "customerCaseResourcePlan",
+    "customerCaseServiceSchedule" : "customerCaseServiceSchedule",
+    "customerCaseTrainingPlan" : "customerCaseTrainingPlan",
+    "customerCaseServiceOperatingConfiguration" : "customerCaseServiceOperatingConfiguration",
+    "customerCasePoliciesAndGuidelines" : "customerCasePoliciesAndGuidelines",
+    "customerCaseManagementPlanPeriod" : "customerCaseManagementPlanPeriod",
+    "customerCaseServicePerformanceGoals" : "customerCaseServicePerformanceGoals"
+  },
+  "customerCaseManagementPlanUpdateActionTaskReference" : "CCMPUATR797089"
+}

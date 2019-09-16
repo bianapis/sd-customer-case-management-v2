@@ -1,0 +1,27 @@
+{
+  "rulesInstanceRecord" : {
+    "customerCaseDecisionCriterionAnalysis" : {
+      "customerCaseDecisionCriterionHistory" : "customerCaseDecisionCriterionHistory",
+      "customerCaseDecisionCriterionAnalysis" : "customerCaseDecisionCriterionAnalysis"
+    },
+    "customerCaseDecisionCriterion" : {
+      "customerCaseDecisionCriterionRules" : "customerCaseDecisionCriterionRules",
+      "customerCaseDecisionCriterionDefinition" : "customerCaseDecisionCriterionDefinition"
+    }
+  },
+  "rulesInstanceAnalysis" : {
+    "rulesInstanceAnalysisReport" : {},
+    "rulesInstanceAnalysisParameters" : "rulesInstanceAnalysisParameters",
+    "rulesInstanceAnalysisRecord" : {},
+    "rulesInstanceAnalysisReportType" : "rulesInstanceAnalysisReportType"
+  },
+  "rulesInstanceReport" : {
+    "rulesInstanceReport" : {},
+    "rulesInstanceReportRecord" : {},
+    "rulesInstanceReportType" : "rulesInstanceReportType",
+    "rulesInstanceReportParameters" : "rulesInstanceReportParameters"
+  },
+  "rulesRetrieveActionTaskReference" : "RRATR739084",
+  "rulesRetrieveActionTaskRecord" : {},
+  "rulesRetrieveActionResponse" : "rulesRetrieveActionResponse"
+}

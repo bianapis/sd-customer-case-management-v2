@@ -1,0 +1,15 @@
+{
+  "performanceInstanceRecord" : {
+    "customerCaseResourceUtilization" : "customerCaseResourceUtilization",
+    "customerCaseResolutionServiceStatistics" : {
+      "customerCaseServiceStatisticType" : "customerCaseServiceStatisticType",
+      "customerCaseServiceStatisticInterpretation" : "customerCaseServiceStatisticInterpretation",
+      "customerCaseServiceStatisticValue" : "customerCaseServiceStatisticValue",
+      "customerCaseServiceStatisticRecommendation" : "customerCaseServiceStatisticRecommendation"
+    },
+    "customerCaseLoadingProjections" : "customerCaseLoadingProjections"
+  },
+  "updateResponseRecord" : {},
+  "performanceUpdateActionTaskReference" : "CCMPUATR745542",
+  "performanceUpdateActionTaskRecord" : {}
+}
